@@ -1,5 +1,5 @@
 <!-- PROJECT LOGO -->
-<br />
+<br /> 
 <p align="center">
   <a href="https://github.com/Decimation/SmartImage">
     <img src="/Assets/Icon.png" alt="Logo" width="80" height="80">
